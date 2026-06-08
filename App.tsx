@@ -1,1 +1,0 @@
-// This file is deprecated. All logic has been moved to index.tsx for a single-file structure.
